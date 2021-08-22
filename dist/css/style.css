@@ -180,7 +180,7 @@ section {
 --------------------*/
 
 header {
-  background-image: url(../images/new/7CsHero.jpeg);
+  background-image: url(../images/new/TestTwo.png);
   background-repeat: none;
   background-attachment: scroll;
   background-position: center center;
@@ -194,7 +194,7 @@ header {
 
 .main-logo {
   width: 300px;
-  filter: drop-shadow(0 1rem 2rem #c91616);
+  filter: drop-shadow(0 1rem 2rem white);
 }
 @media (min-width: 768px) {
   .main-logo {
