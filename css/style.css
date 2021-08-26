@@ -488,7 +488,7 @@ figure.effect-bubba:hover p {
 --------------------*/
 
 .dark-bg {
-  background: #323232;
+  background: #eeeeee;
   color: #fff;
 }
 
@@ -823,6 +823,21 @@ footer p a span {
 #contact {
   background-color: #969696;
 }
+
+/* CIGATETTE AD */
+/* .cig-parent {
+  max-width: 1080px;
+  margin: 0 auto;
+} */
+.cig-ad {
+  background: url(../images/new/cig-ad.png);
+  width: 100%;
+  margin: auto;
+  padding-top: 18%;
+  background-size: contain;
+  background-repeat: none;
+}
+
 /* EVENTS SECTION */
 
 .event-ads {
