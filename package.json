@@ -11,6 +11,7 @@
   "license": "ISC",
   "homepage": "https://davidbuoy.github.io/mywebsite",
   "dependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "zoom-vanilla.js": "^2.0.6"
   }
 }
